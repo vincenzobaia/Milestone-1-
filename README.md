@@ -2,6 +2,9 @@
 
 Group Members - Lukas Voges, Vincenzo Baia, Brian Connolly 
 
+Fairfield University School of Engineering and Computing 
+BA and BS, Computer Science 
+
 Project Purpose:
 1. Start: The process begins
 2. Read Articles and Stopwords: The program reads the article files and stopword list
