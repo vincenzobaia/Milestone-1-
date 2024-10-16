@@ -21,3 +21,4 @@ Methods/Classes:
 - File Analyzer, Provides statistics of the articles including word count, statements, and words ranked by frequency 
 - Main Method, Calls upon all aforementioned methods, does it for 3 different txt files  
 
+<img width="854" alt="Screenshot 2024-10-16 at 11 59 26 AM" src="https://github.com/user-attachments/assets/fd8b04a6-abb6-4e46-ab51-fe85f262dba7">
